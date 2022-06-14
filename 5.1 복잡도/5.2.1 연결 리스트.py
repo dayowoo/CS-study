@@ -316,3 +316,4 @@ if __name__ == "__main__":
     print('LinkedList Delete Node(0) : ', m_list)   # [1,5,15,6]
     m_list.deleteNode(1)
     print('LinkedList Delete Node(1) : ', m_list)   # [1,15,6]
+
